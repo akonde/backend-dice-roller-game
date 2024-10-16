@@ -59,6 +59,8 @@ Once the backend and frontend servers are running, you can:
 https://github.com/akonde/frontend-dice-roller-game
 
 ## Screenshot
+<img width="1397" alt="Screenshot 2024-10-16 at 21 00 01" src="https://github.com/user-attachments/assets/f2bae75b-2e75-4547-907d-6928affab5ee">
+<img width="1000" alt="Screenshot 2024-10-16 at 21 00 44" src="https://github.com/user-attachments/assets/6e2286ab-3a85-4a3f-8641-42cf743e51de">
 
 
 ## Contributing
