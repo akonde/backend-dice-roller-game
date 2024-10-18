@@ -22,7 +22,7 @@ This is a simple dice-rolling web application where users can register, log in, 
 ##  Technologies
 * Backend: Node.js, Express.js, Prisma (ORM), SQLite (or other databases supported by Prisma)
 * Frontend: React.js (Vite for fast builds)
-* Database: SQLite (or PostgreSQL/MySQL based on configuration)
+* Database: Neo (or PostgreSQL/MySQL based on configuration)
 * Session Management: express-session
 * Styling: CSS (Basic styles, easily customizable)
 
@@ -77,5 +77,5 @@ This project is licensed under the MIT License.Dice Roller Game
 
 
 ## Credits
-Thanks to the Boolean Developer boot camp for this privilege. I appreciate TUTOR (Ezekiel), Carlos, and my cohort they are all amazing, google searching and other developers' communities for resources. 
+Thanks to the Boolean Developer boot camp for this privilege. I appreciate TUTOR (Ezekiel), Carlo, and my cohort they are all amazing, google searching and other developers' communities for resources. 
 
